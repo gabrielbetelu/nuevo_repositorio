@@ -10,5 +10,11 @@
         "apellido" : "Gomez",
         "dni" : 23456789,
         "cumoleanios" : "12-8"
+    },
+    {
+        "nombre" : "Pedro",
+        "apellido" : "Tellp",
+        "dni" : 23452345,
+        "cumoleanios" : "31-1"
     }
 ]
